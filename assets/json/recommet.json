@@ -1,0 +1,17 @@
+[
+    {
+        "id": 1,
+        "name": "Athiphong",
+        "lastname": "Hinoon",
+        "age": "2002-09-08",
+        "file_img": "แมว1.png",
+        "college_Years": 2023,
+        "major": "วิศวะกรรมซอฟต์แวร์",
+        "NumberID": 644259026,
+        "cardDeathDate": "12/11",
+        "cno1": 1233,
+        "cno2": 4566,
+        "cno3": 7897,
+        "cno4": 7328
+    }
+]
